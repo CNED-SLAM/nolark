@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <!-- 
-     Page web créé dans le cadre du cours de web Dev le 01/09/2020
-     Auteur : José GIL
+     Page web crÃ©Ã© dans le cadre du cours de web Dev le 01/09/2020
+     Auteur : JosÃ© GIL
      Email : jgil83000@gmail.com
 -->
 <html lang="fr-FR">
     <head>
-        <title>Casques Nolark : Sécurité et confort, nos priorités !</title>
+        <title>Casques Nolark : SÃ©curitÃ© et confort, nos prioritÃ©s !</title>
         <meta charset="UTF-8">
-        <meta name="author" content="José GIL">
-        <meta name="description" content="Découvrez des casques moto dépassant même les exigences des tests de sécurité. Tous les casques Nolark au meilleur prix et avec en prime la livraison gratuite !">
+        <meta name="author" content="JosÃ© GIL">
+        <meta name="description" content="DÃ©couvrez des casques moto dÃ©passant mÃªme les exigences des tests de sÃ©curitÃ©. Tous les casques Nolark au meilleur prix et avec en prime la livraison gratuite !">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <script src="../js/cookies/tarteaucitron/tarteaucitron.js"></script>
         <script src="../js/cookies/tarteaucitron.init.js"></script>
@@ -33,17 +33,17 @@
             <h1>Nous contacter :</h1>
             <form id="form_contact" name="form_contact" action="http://gil83.fr/nolark/testforms.php" method="POST">
                 <fieldset id="coordo">
-                    <legend>Pour mieux vous connaître</legend>
-                    <div><label for="i_nom">Votre nom :</label> <input type="text" name="i_nom" id="i_nom" size="35" pattern="^[a-zA-ZáàâäãåçéèêëíìîïñóòôöõúùûüýÿæœÁÀÂÄÃÅÇÉÈÊËÍÌÎÏÑÓÒÔÖÕÚÙÛÜÝŸÆŒ\s\-]+$" required><div class="input-validation"></div></div>
-                    <div><label for="i_prenom">Votre prénom :</label> <input type="text" name="i_prenom" id="i_prenom" size="35" pattern="^[a-zA-ZáàâäãåçéèêëíìîïñóòôöõúùûüýÿæœÁÀÂÄÃÅÇÉÈÊËÍÌÎÏÑÓÒÔÖÕÚÙÛÜÝŸÆŒ\s\-]+$" required><div class="input-validation"></div></div>
+                    <legend>Pour mieux vous connaÃ®tre</legend>
+                    <div><label for="i_nom">Votre nom :</label> <input type="text" name="i_nom" id="i_nom" size="35" pattern="^[a-zA-ZÃ¡Ã Ã¢Ã¤Ã£Ã¥Ã§Ã©Ã¨ÃªÃ«Ã­Ã¬Ã®Ã¯Ã±Ã³Ã²Ã´Ã¶ÃµÃºÃ¹Ã»Ã¼Ã½Ã¿Ã¦Å“ÃÃ€Ã‚Ã„ÃƒÃ…Ã‡Ã‰ÃˆÃŠÃ‹ÃÃŒÃŽÃÃ‘Ã“Ã’Ã”Ã–Ã•ÃšÃ™Ã›ÃœÃÅ¸Ã†Å’\s\-]+$" required><div class="input-validation"></div></div>
+                    <div><label for="i_prenom">Votre prÃ©nom :</label> <input type="text" name="i_prenom" id="i_prenom" size="35" pattern="^[a-zA-ZÃ¡Ã Ã¢Ã¤Ã£Ã¥Ã§Ã©Ã¨ÃªÃ«Ã­Ã¬Ã®Ã¯Ã±Ã³Ã²Ã´Ã¶ÃµÃºÃ¹Ã»Ã¼Ã½Ã¿Ã¦Å“ÃÃ€Ã‚Ã„ÃƒÃ…Ã‡Ã‰ÃˆÃŠÃ‹ÃÃŒÃŽÃÃ‘Ã“Ã’Ã”Ã–Ã•ÃšÃ™Ã›ÃœÃÅ¸Ã†Å’\s\-]+$" required><div class="input-validation"></div></div>
                     <div><label for="i_email">Votre e-mail :</label> <input type="email" name="i_email" id="i_email" size="35" pattern="^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" required><div class="input-validation"></div></div>
                     <div><label for="i_url">Votre url :</label> <input type="url" name="i_url" id="i_url" size="35" pattern="https?://.+[a-z0-9.-]+\.[a-z]{2,}$"></div>
                     <div>
-                        <label for="lst_typeclient">Vous êtes : </label>
+                        <label for="lst_typeclient">Vous Ãªtes : </label>
                         <select name="lst_typeclient" id="lst_typeclient">
-                            <option value="1">Étudiant</option>
-                            <option value="2">Salarié du privé</option>
-                            <option value="3">Salarié du public</option>
+                            <option value="1">Ã‰tudiant</option>
+                            <option value="2">SalariÃ© du privÃ©</option>
+                            <option value="3">SalariÃ© du public</option>
                             <option value="4">Chef d'entreprise</option>
                             <option value="5">Journaliste</option>
                             <option value="6">Professionnel(le) du casque</option>
@@ -51,16 +51,16 @@
                         </select>
                     </div>
                     <div>
-                        <label>Date de naissance :
+                        <label>Date de naissance :</label>
                         <input type="date" name="datedenaissance" id="datedenaissance">
                     </div>
                     <fieldset id="marques">
-                        <legend>Vos marques préférés</legend>
+                        <legend>Vos marques prÃ©fÃ©rÃ©s</legend>
                         <table>
                             <tr>
                                 <td><input type="checkbox" name="chk_marques[]" id="chk_agv" value="agv"><label for="chk_agv">agv</label></td>
                                 <td><input type="checkbox" name="chk_marques[]" id="chk_airoh" value="airoh"><label for="chk_airoh">airoh</label></td>
-                                <td><input type="checkbox" name="chk_marques[]" id="chk_arai" value="arai"><label for="chk_arai">araï</label></td>
+                                <td><input type="checkbox" name="chk_marques[]" id="chk_arai" value="arai"><label for="chk_arai">araÃ¯</label></td>
                             </tr>
                             <tr>
                                 <td><input type="checkbox" name="chk_marques[]" id="chk_bell" value="bell"><label for="chk_bell">bell</label></td>
@@ -105,21 +105,21 @@
                         </table>
                     </fieldset>
                     <div>
-                        <label>Votre couleur préférée : </label>
+                        <label>Votre couleur prÃ©fÃ©rÃ©e : </label>
                         <input type="color" name="col_couleur" id="col_couleur" value="#ff6811">
                     </div>
                 </fieldset>
                 <fieldset id="motif">
                     <legend>Motif du contact</legend>
                     <div><input type="radio" name="rd_motif" value="deminfo" id="rd_deminfo"> <label for="rd_deminfo">Demande d'information</label></div>
-                    <div><input type="radio" name="rd_motif" value="reclam" id="rd_reclam"> <label for="rd_reclam">Réclamation</label></div>
+                    <div><input type="radio" name="rd_motif" value="reclam" id="rd_reclam"> <label for="rd_reclam">RÃ©clamation</label></div>
                     <div><input type="radio" name="rd_motif" value="satis" id="rd_satis"> <label for="rd_satis">Satisfaction</label></div>
                     <div><input type="radio" name="rd_motif" value="suivi" id="rd_suivi"> <label for="rd_suivi">Suivi de commande</label></div>
-                    <div><input type="radio" name="rd_motif" value="pub" id="rd_pub"> <label for="rd_pub">Publicité</label></div>
+                    <div><input type="radio" name="rd_motif" value="pub" id="rd_pub"> <label for="rd_pub">PublicitÃ©</label></div>
                     <div><input type="radio" name="rd_motif" value="autre" id="rd_autre"> <label for="rd_autre">Autre...</label></div>
-                    <div><label for="area_precisions">Si "Autre", veuillez préciser :</label><br><textarea name="area_precisions" id="area_precisions" cols="35" rows="10"></textarea></div>
+                    <div><label for="area_precisions">Si "Autre", veuillez prÃ©ciser :</label><br><textarea name="area_precisions" id="area_precisions" cols="35" rows="10"></textarea></div>
                 </fieldset>
-                <div id="controles"><input type="button" id="btn_envoyer" name="sub_envoyer" value="Envoyer votre demande de contact"> <input type="reset" name="rst_annuler" value="Effacer les réponses"></div>
+                <div id="controles"><input type="button" id="btn_envoyer" name="sub_envoyer" value="Envoyer votre demande de contact"> <input type="reset" name="rst_annuler" value="Effacer les rÃ©ponses"></div>
             </form>
         </section>
         <?php

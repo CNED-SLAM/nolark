@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <!-- 
      Page web créé dans le cadre du cours de web Dev le 01/09/2020
      Auteur : José GIL
@@ -29,7 +30,7 @@
                     roule à deux roues. Personne n'envisagerait de rouler sans casque&nbsp;!
                 </p>
                 <p>
-                    Et pourtant, certains omettent l'essentiel : <span>Attacher son casque !<span>
+                    Et pourtant, certains omettent l'essentiel : <span>Attacher son casque !</span>
                 </p>
                 <p>
                     C'est pourquoi Nolark vous présente cette vidéo conçue par 

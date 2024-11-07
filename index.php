@@ -22,7 +22,7 @@
         ?>
         <section id="principal">
             <article>
-                <img src="images/post-it.png">
+                <img src="images/post-it.png" alt="post-it : Pensez à rentrer en vie">
                 <p>
                     Au-delà de l'obligation légale, le port d'un casque est le garant de votre
                     sécurité. Le choix de votre casque doit se faire en fonction de vos besoins 
