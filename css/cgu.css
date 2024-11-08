@@ -10,6 +10,38 @@
     font-weight: bold;
 }
 
+.sousTitres {
+    margin: 30px 0 25px 25px;
+}
+
+.pSousTitres {
+    margin-left: 50px;
+}
+
+.sousTitresN2 {
+    margin-top: 25px;
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: smaller;
+}
+
+.pSousTitresN2 {
+    margin-left: 75px;
+}
+
+ul {
+    margin: 0 25px 0 75px;
+    text-align: justify;
+}
+
+hr {
+    width: 150px;
+    height: 1px;
+    border: none;
+    background-color: var(--maCouleurDominante);
+    margin: 25px auto;
+}
+
 p:not(footer) {
     margin: 10px 25px;
     text-align: justify;
@@ -39,6 +71,15 @@ table th {
     color: white;
     border-color: white;
     background-color: var(--maCouleurDominante);
+    border-top-color : var(--maCouleurDominante) 
+}
+
+table th:first-child {
+    border-left-color: var(--maCouleurDominante);
+}
+
+table th:last-child {
+    border-right-color: var(--maCouleurDominante);
 }
 
 #pfin {
