@@ -10,6 +10,7 @@ window.addEventListener('load', function () {
     for (let i = 0; i < tabInputs.length; i++) {
         // Ajout d'un Listener sur tous les <input> sur les évènements listés dans tabEvents
         tabInputs[i].addEventListener('keyup', gestionAlcoolemie);
+        tabInputs[i].addEventListener('change', gestionAlcoolemie);
     }
 });
 
@@ -23,7 +24,7 @@ function gestionAlcoolemie() {
     // Déclaration et affectation des variables
     let poids = getInt('#num_poids');
     let sexe = getString('#sexe input[type="radio"]:checked');
-    let nbVerres = getInt('#num_verres');
+    let nbVerres = getInt('#num_verre');
     let alcoolemie = getAlcoolemie(sexe, poids, nbVerres);
 
     // Gestion des affichages
@@ -86,7 +87,12 @@ function getAlcoolPur(nbVerres) {
     return uniteAlcool * nbVerres;
 }
 
-    function getCoefDiffusion(sexe) {
+/**
+ * fonction qui retoune le coefficient de diffusion en fonction du sexe
+ * @param {type} sexe
+ * @returns {Number}
+ */
+function getCoefDiffusion(sexe) {
     const coefDiffuH = 0.7, coefDiffuF = 0.6;
     if (sexe === 'homme') {
         return coefDiffuH;
