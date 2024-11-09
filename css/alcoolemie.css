@@ -1,0 +1,13 @@
+#sexe p {
+    margin: 0 10px;
+}
+fieldset p {
+    padding: 10px;
+}
+fieldset {
+    width: fit-content;
+    margin: 20px auto !important;
+}
+#simulateur {
+    text-align: center;
+}
