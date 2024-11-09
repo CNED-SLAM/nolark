@@ -6,10 +6,10 @@
 -->
 <html lang="fr-FR">
     <head>
-        <title>Casques Nolark&nbsp;:&nbsp;Sécurité et confort, nos priorités !</title>
+        <title>Page qui affiche les CGU du site</title>
         <meta charset="UTF-8">
         <meta name="author" content="José GIL">
-        <meta name="description" content="Découvrez des casques moto dépassant même les exigences des tests de sécurité. Tous les casques Nolark au meilleur prix et avec en prime la livraison gratuite !">
+        <meta name="description" content="Accédez à toutes les informations concernant les conditions générales d'utilisation du site.">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <script src="../js/cookies/tarteaucitron/tarteaucitron.js"></script>
         <script src="../js/cookies/tarteaucitron.init.js"></script>
@@ -76,7 +76,7 @@
                 <li>URL du site</li>
                 <li>Statut (Étudiant, salarié du public, salarié du privé...)</li>
                 <li>Date de naissance</li>
-                <li>Marques de casques préférées</li>
+                <li>Marques de <strong>casques</strong> préférées</li>
                 <li>Couleur préférée</li>
             </ul>
             <p class="pSousTitres">Ces données sont collectées lorsque l'Utilisateur effectue l'une des opérations suivantes sur le site :</p>
@@ -84,7 +84,7 @@
                 <li>Contacte le service client de Nolark par tout moyen de communication mis à sa disposition tel que le courrier électronique, l'utilisation du formulaire de contact...</li>
                 <li>Participe à un jeu promotionnel ou un jeu concours sur le site</li>
             </ul>
-            <p class="pSousTitres">Le responsable du traitement conservera dans ses systèmes informatiques du site et dans des conditions raisonnables de sécurité l'ensemble des données collectées pour une durée de&nbsp;:&nbsp;3 ans.</p>
+            <p class="pSousTitres">Le responsable du traitement conservera dans ses systèmes informatiques du site et dans des conditions raisonnables de <strong>sécurité</strong> l'ensemble des données collectées pour une durée de&nbsp;:&nbsp;3 ans.</p>
             <p class="pSousTitres">La collecte et le traitement des données répondent aux finalités suivantes : Réalisation de statistiques de la mesure d'audience et d'études marketing</p>
             <p class="sousTitres"><b>B. Hébergement des données</b></p>
             <p class="pSousTitres">Tel que mentionné plus haut, le site Nolark est hébergé par&nbsp;:&nbsp;OVH SAS, dont le siège est situé à l'adresse suivante&nbsp;: 2 rue Kellermann - BP 80157, 59100 Roubaix.</p>
@@ -123,7 +123,7 @@
             <p class="pSousTitres">Le responsable du traitement s'engage à protéger les données à caractère personnel collectées, à ne pas les transmettre à des tiers sans que l'utilisateur n'en ait été informé et à respecter les finalités pour lesquelles ces données ont été collectées.</p>
             <p class="pSousTitres">Le site dispose d'un certificat SSL afin de garantir que les informations et le transfert des données transitant par le site sont sécurisés.</p>
             <p class="pSousTitres">De plus, le responsable du traitement des données s'engage à notifier l'utilisateur en cas de rectification ou de suppression des données, à moins que cela n'entraîne pour lui des formalités, coûts et démarches disproportionnés.</p>
-            <p class="pSousTitres">Dans le cas où l'intégrité, la confidentialité ou la sécurité des données à caractère personnel de l'Utilisateur est compromise, le responsable du traitement s'engage à informer l'Utilisateur par tout moyen.</p>
+            <p class="pSousTitres">Dans le cas où l'intégrité, la confidentialité ou la <strong>sécurité</strong> des données à caractère personnel de l'Utilisateur est compromise, le responsable du traitement s'engage à informer l'Utilisateur par tout moyen.</p>
             <p class="sousTitres"><b>H. Cookies</b></p>
             <p class="pSousTitres">Le site a éventuellement recours aux techniques de "cookies" lui permettant de traiter des statistiques et des informations sur le trafic, de faciliter la navigation et d'améliorer le service pour le confort de l'utilisateur. Pour l'utilisation de fichiers "cookies" impliquant la sauvegarde et l'analyse de données à caractère personnel, le consentement de l'utilisateur est nécessairement demandé.</p>
             <p class="pSousTitres">Ce consentement de l'Utilisateur est considéré comme valide pour une durée de 13 (treize) mois maximum. À l'issue de cette période, le site demandera à nouveau l'autorisation de l'utilisateur pour enregistrer des fichiers "cookies" sur son disque dur.</p>

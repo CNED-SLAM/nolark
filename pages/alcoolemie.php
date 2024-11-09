@@ -6,10 +6,10 @@
 -->
 <html lang="fr-FR">
     <head>
-        <title>Casques Nolark&nbsp;:&nbsp;Sécurité et confort, nos priorités !</title>
+        <title>Page de calcul du taux d'alcoolémie et qui affiche les risques</title>
         <meta charset="UTF-8">
         <meta name="author" content="José GIL">
-        <meta name="description" content="Découvrez des casques moto dépassant même les exigences des tests de sécurité. Tous les casques Nolark au meilleur prix et avec en prime la livraison gratuite !">
+        <meta name="description" content="Roulez en toute sécurité en connaissant les risques en cas de consommation d'alcool.">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <script src="../js/cookies/tarteaucitron/tarteaucitron.js"></script>
         <script src="../js/cookies/tarteaucitron.init.js"></script>

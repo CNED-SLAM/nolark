@@ -6,10 +6,11 @@
 -->
 <html lang="fr-FR">
     <head>
-        <title>Casques Nolark : Sécurité et confort, nos priorités !</title>
+        <title>Page d'accueil de la boutique en ligne de vente de Casques Nolark : Sécurité et confort, nos priorités !</title>
         <meta charset="UTF-8">
         <meta name="author" content="José GIL">
-        <meta name="description" content="Découvrez des casques moto dépassant même les exigences des tests de sécurité. Tous les casques Nolark au meilleur prix et avec en prime la livraison gratuite !">
+        <meta name="description" content="Nolark, la boutique en ligne où vous découvrirez des casques moto dépassant même les exigences des tests de sécurité.
+Tous les casques Nolark au meilleur prix et avec en prime la livraison gratuite !">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <script src="js/cookies/tarteaucitron/tarteaucitron.js"></script>
         <script src="js/cookies/tarteaucitron.init.js"></script>
@@ -24,15 +25,15 @@
             <article>
                 <img src="images/post-it.png" alt="post-it : Pensez à rentrer en vie">
                 <p>
-                    Au-delà de l'obligation légale, le port d'un casque est le garant de votre
-                    sécurité. Le choix de votre casque doit se faire en fonction de vos besoins 
+                    Au-delà de l'obligation légale, le port d'un <strong>casque</strong> est le garant de votre
+                    <strong>sécurité</strong>. Le choix de votre <strong>casque</strong> doit se faire en fonction de vos besoins 
                     (route, cross, piste...).
                 </p>
                 <p>
-                    Spécialiste reconnu dans l'univers de la sécurité du deux-roues, Nolark vous 
-                    propose des milliers de modèles de casques disponibles au travers de plus de 
-                    50 marques. Vous trouverez ici tous les types de casques moto : jet, intégral, 
-                    modulable, transformable, piste, cross ou encore un large choix de casques 
+                    Spécialiste reconnu dans l'univers de la <strong>sécurité</strong> du deux-roues, Nolark vous 
+                    propose des milliers de modèles de <strong>casques</strong> disponibles au travers de plus de 
+                    50 marques. Vous trouverez ici tous les types de <strong>casques</strong> moto : jet, intégral, 
+                    modulable, transformable, piste, cross ou encore un large choix de <strong>casques</strong> 
                     moto enfant (taille et poids spécialement adaptés).
                 </p>
                 <p>
@@ -44,8 +45,8 @@
                     de trouver le modèle qui correspond à vos besoins.
                 </p>
                 <p>
-                    Nolark n'est pas seulement un magasin de casques, c'est avant tout une équipe 
-                    de passionnés qui sélectionnent pour vous les meilleurs casques moto afin de 
+                    Nolark n'est pas seulement un magasin de <strong>casques</strong>, c'est avant tout une équipe 
+                    de passionnés qui sélectionnent pour vous les meilleurs <strong>casques</strong> moto afin de 
                     répondre au mieux à vos attentes.
                 </p>
             </article>

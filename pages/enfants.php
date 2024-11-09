@@ -6,10 +6,10 @@
 -->
 <html lang="fr-FR">
     <head>
-        <title>Casques Nolark : Sécurité et confort, nos priorités !</title>
+        <title>Page qui affiche les casques de type "route"</title>
         <meta charset="UTF-8">
         <meta name="author" content="José GIL">
-        <meta name="description" content="Découvrez des casques moto dépassant même les exigences des tests de sécurité. Tous les casques Nolark au meilleur prix et avec en prime la livraison gratuite !">
+        <meta name="description" content="Découvrez des casques moto dépassant même les exigences des tests de sécurité. Tous les casques Nolark de type 'Enfants' au meilleur prix et avec en prime la livraison gratuite !">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <script src="../js/cookies/tarteaucitron/tarteaucitron.js"></script>
         <script src="../js/cookies/tarteaucitron.init.js"></script>
@@ -26,7 +26,7 @@
             <article>
                 <img src="../images/attention.png" alt="Panneau attention">
                 <p>
-                    On est tous d'accord pour dire que la sécurité est primordiale lorsqu'on 
+                    On est tous d'accord pour dire que la <strong>sécurité</strong> est primordiale lorsqu'on 
                     roule à deux roues. Personne n'envisagerait de rouler sans casque&nbsp;!
                 </p>
                 <p>

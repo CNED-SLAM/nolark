@@ -24,6 +24,10 @@ body {
     background: #2d2d2d17; /* Le fond par défaut est gris transparent */
 }
 
+strong {
+    font-weight: normal;
+}
+
 header {
     width: 916px; /* Les headers et sections occupent 916px (taille de la bannière) */
     display: flex; /* Ce conteneur est "flexible" */
